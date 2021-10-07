@@ -1,0 +1,51 @@
+h1
+{
+ color: rgb(91, 128, 17);
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}    
+.one{
+    color:rgba(255, 166, 0, 0.384);
+    font-size: larger;
+    font-family:cursive;
+}
+.img1
+{
+
+    max-width: 95%;
+    border: 3px solid rgb(172, 221, 250);
+
+}
+.img2
+{
+    max-width: 95%;
+    border: 3px solid rgb(231, 14, 231);
+}
+.table1
+{
+color: black;
+background-color: rgb(15, 175, 238);
+}
+.t1
+{
+    color:black;
+   background-color: rgb(236, 12, 31);
+}
+.table2
+{
+    color:black;
+    background-color:rgb(45, 218, 83) ;
+}
+.t2{
+color:black;
+background-color: rgb(83, 253, 236);
+}
+.table3
+{
+    color:black;
+    background-color: rgb(51, 26, 194);
+}
+.t3
+{
+    color:black;
+    background-color: rgb(219, 240, 29);
+} 
